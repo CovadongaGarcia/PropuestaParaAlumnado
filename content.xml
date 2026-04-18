@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604181646208C0IXY</value>
+    <value>20260418172425CAMLPQ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260418164620FL588Z</value>
+    <value>20260418172425A2RT08</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -106,10 +106,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>d09d5bdc-ac6d-4eaf-86c8-33b620e88004</odePageId>
-      <odeBlockId>block-1776521031026-scro6mv8o</odeBlockId>
-      <blockName>Presentación de la SdA</blockName>
-      <iconName>interactive</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
+      <odeBlockId>block-1776524209432-1x8o60mun</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -135,8 +135,53 @@
       <odeComponents>
         <odeComponent>
           <odePageId>d09d5bdc-ac6d-4eaf-86c8-33b620e88004</odePageId>
-          <odeBlockId>block-1776521031026-scro6mv8o</odeBlockId>
-          <odeIdeviceId>idevice-1776521031023-2yxop9m9r</odeIdeviceId>
+          <odeBlockId>block-1776524209432-1x8o60mun</odeBlockId>
+          <odeIdeviceId>idevice-1776524209428-wgqg7z7pk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/y3d7neiaxhb1bco" title="">Enlace a la infografía de presentación</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776524209428-wgqg7z7pk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/y3d7neiaxhb1bco\" title=\"\">Enlace a la infografía de presentación</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>d09d5bdc-ac6d-4eaf-86c8-33b620e88004</odePageId>
+      <odeBlockId>block-1776525763322-pizli61e0</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d09d5bdc-ac6d-4eaf-86c8-33b620e88004</odePageId>
+          <odeBlockId>block-1776525763322-pizli61e0</odeBlockId>
+          <odeIdeviceId>idevice-1776525763320-76irvt4h7</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
           <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://canva.link/y3d7neiaxhb1bco" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
           <jsonProperties></jsonProperties>
