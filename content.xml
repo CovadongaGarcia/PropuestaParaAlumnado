@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260421184221DNFNCT</value>
+    <value>20260426182849XBQ406</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260421184221QNTSBE</value>
+    <value>202604261828495B3GLO</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,11 +52,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.0-rc1</value>
+    <value>v4.0.0-rc2</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776787481381</value>
+    <value>1777218975631</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo8te2us-3w5ypkhek</odePageId>
+  <odePageId>page-mofyahy0-jyozkopo1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SdA. Diseño mi propio juego.</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -127,8 +127,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2us-en4li65nu</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy1-x053ysbyl</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Presentación</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -163,7 +163,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2us-en4li65nu</odePageId>
+      <odePageId>page-mofyahy1-x053ysbyl</odePageId>
       <odeBlockId>block-1776524209432-1x8o60mun</odeBlockId>
       <blockName>Listado de recursos utilizados en las prácticas de Scratch</blockName>
       <iconName></iconName>
@@ -192,7 +192,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2us-en4li65nu</odePageId>
+          <odePageId>page-mofyahy1-x053ysbyl</odePageId>
           <odeBlockId>block-1776524209432-1x8o60mun</odeBlockId>
           <odeIdeviceId>idevice-1776524209428-wgqg7z7pk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -222,11 +222,31 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776787745047-rqf3gav1f</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy3-nuvrpo3dh</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Secuenciación didáctica</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuenciación didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Secuenciación didáctica</value>
@@ -238,7 +258,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776787745047-rqf3gav1f</odePageId>
+      <odePageId>page-mofyahy3-nuvrpo3dh</odePageId>
       <odeBlockId>block-1776787999785-wqjbgi823</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -267,7 +287,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776787745047-rqf3gav1f</odePageId>
+          <odePageId>page-mofyahy3-nuvrpo3dh</odePageId>
           <odeBlockId>block-1776787999785-wqjbgi823</odeBlockId>
           <odeIdeviceId>idevice-1776787999782-i30nqj4cu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -277,6 +297,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776787999782-i30nqj4cu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente SdA se desarrollará en cuatro sesiones de 55 minutos. Se detalla la previsión de trabajo para cada sesión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -284,19 +316,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776788102951-5owg7t0w5</odePageId>
-  <odeParentPageId>page-1776787745047-rqf3gav1f</odeParentPageId>
+  <odePageId>page-mofyahy4-trxppgj1p</odePageId>
+  <odeParentPageId>page-mofyahy3-nuvrpo3dh</odeParentPageId>
   <pageName>1ª sesión</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>1ª sesión</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1ª sesión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776788102951-5owg7t0w5</odePageId>
+      <odePageId>page-mofyahy4-trxppgj1p</odePageId>
       <odeBlockId>block-1776788124150-i3x846kj6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -325,7 +381,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776788102951-5owg7t0w5</odePageId>
+          <odePageId>page-mofyahy4-trxppgj1p</odePageId>
           <odeBlockId>block-1776788124150-i3x846kj6</odeBlockId>
           <odeIdeviceId>idevice-1776788124148-ui73p4sms</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -339,6 +395,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776788124148-ui73p4sms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Presentación de la actividad y especificación de grupos de trabajo (se conservarán las mismas agrupaciones de 2/3 alumnos que utilizaron en la anterior SdA)</li>\n<li>Cada grupo decidirá básicamente el funcionamiento del juego, basándose en los contenidos trabajados en Scratch en las sesiones anteriores a la SdA y los recursos (objetos, fondos, sonidos a utilizar, etc).</li>\n<li>Comienzo de la programación.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -346,19 +414,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776788516403-hw7tzglvw</odePageId>
-  <odeParentPageId>page-1776787745047-rqf3gav1f</odeParentPageId>
+  <odePageId>page-mofyahy5-1ls41fkrs</odePageId>
+  <odeParentPageId>page-mofyahy3-nuvrpo3dh</odeParentPageId>
   <pageName>2ª sesión</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>2ª sesión</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2ª sesión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776788516403-hw7tzglvw</odePageId>
+      <odePageId>page-mofyahy5-1ls41fkrs</odePageId>
       <odeBlockId>block-1776788520306-cadl28x3i</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -387,7 +479,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776788516403-hw7tzglvw</odePageId>
+          <odePageId>page-mofyahy5-1ls41fkrs</odePageId>
           <odeBlockId>block-1776788520306-cadl28x3i</odeBlockId>
           <odeIdeviceId>idevice-1776788520305-ejmpfxu22</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -400,6 +492,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776788520305-ejmpfxu22","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Continuación de la programación en Scratch.</li>\n<li>Preparación de la plantilla de Canva para la infografía, basándose en los contenidos publicados en la infografía de presentación. Se tiene en cuenta que el alumnado ya ha trabajado con la aplicación Canva en la anterior SdA.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -407,19 +511,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776788806411-g1oc61btj</odePageId>
-  <odeParentPageId>page-1776787745047-rqf3gav1f</odeParentPageId>
+  <odePageId>page-mofyahy5-sl0th9lbz</odePageId>
+  <odeParentPageId>page-mofyahy3-nuvrpo3dh</odeParentPageId>
   <pageName>3ª sesión</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>3ª sesión</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3ª sesión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776788806411-g1oc61btj</odePageId>
+      <odePageId>page-mofyahy5-sl0th9lbz</odePageId>
       <odeBlockId>block-1776788810637-gp8gkagv0</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -448,7 +576,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776788806411-g1oc61btj</odePageId>
+          <odePageId>page-mofyahy5-sl0th9lbz</odePageId>
           <odeBlockId>block-1776788810637-gp8gkagv0</odeBlockId>
           <odeIdeviceId>idevice-1776788810635-07or8mqyc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -462,6 +590,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776788810635-07or8mqyc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Finalización de la programación en Scratch.</li>\n<li>Explicación de como incrustar un código procedente de un sitio web en Canva. Aquellos grupos en los que algún componente dispone de cuenta en Scratch, subirán el archivo a la misma para generar el código embebido, los demás deberán enviar por Teams el archivo para que les genere el código embebido.</li>\n<li>Finalización de la infografía.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -469,19 +609,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776789148356-6rjzrv6mk</odePageId>
-  <odeParentPageId>page-1776787745047-rqf3gav1f</odeParentPageId>
+  <odePageId>page-mofyahy5-nz5dhb34x</odePageId>
+  <odeParentPageId>page-mofyahy3-nuvrpo3dh</odeParentPageId>
   <pageName>4ª sesión</pageName>
-  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>4ª sesión</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4ª sesión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776789148356-6rjzrv6mk</odePageId>
+      <odePageId>page-mofyahy5-nz5dhb34x</odePageId>
       <odeBlockId>block-1776789154871-abb5xtedy</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -510,7 +674,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776789148356-6rjzrv6mk</odePageId>
+          <odePageId>page-mofyahy5-nz5dhb34x</odePageId>
           <odeBlockId>block-1776789154871-abb5xtedy</odeBlockId>
           <odeIdeviceId>idevice-1776789154870-uxbmo1q39</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -522,6 +686,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776789154870-uxbmo1q39","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Presentación de la infografía al resto del grupo clase, mostrando el juego desarrollado de forma interactiva desde la misma, mediante su código embebido.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -529,8 +705,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2uu-anzvhz2hk</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy6-au6embuhr</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Extracto configuración Scratch</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -565,7 +741,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2uu-anzvhz2hk</odePageId>
+      <odePageId>page-mofyahy6-au6embuhr</odePageId>
       <odeBlockId>block-1776539606696-1c0qfajrs</odeBlockId>
       <blockName>Galería de imágenes</blockName>
       <iconName></iconName>
@@ -594,7 +770,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2uu-anzvhz2hk</odePageId>
+          <odePageId>page-mofyahy6-au6embuhr</odePageId>
           <odeBlockId>block-1776539606696-1c0qfajrs</odeBlockId>
           <odeIdeviceId>idevice-1776539606692-naq0psbm0</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -631,8 +807,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2uv-59w9mi4m5</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy7-bpeof71pz</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Resumen programación Scratch</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -667,7 +843,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2uv-59w9mi4m5</odePageId>
+      <odePageId>page-mofyahy7-bpeof71pz</odePageId>
       <odeBlockId>block-1776537534523-ds5sncnj3</odeBlockId>
       <blockName>Elementos de programación utilizados en las prácticas</blockName>
       <iconName></iconName>
@@ -696,7 +872,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2uv-59w9mi4m5</odePageId>
+          <odePageId>page-mofyahy7-bpeof71pz</odePageId>
           <odeBlockId>block-1776537534523-ds5sncnj3</odeBlockId>
           <odeIdeviceId>idevice-1776537534521-dgf7pp9r5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -737,8 +913,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776789368249-prkgrldfy</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy7-3mu2ym9c5</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Contenidos infografía</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -746,10 +922,34 @@
       <key>titlePage</key>
       <value>Contenidos infografía</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776789368249-prkgrldfy</odePageId>
+      <odePageId>page-mofyahy7-3mu2ym9c5</odePageId>
       <odeBlockId>block-1776789389855-nwpefcwrz</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -778,22 +978,36 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776789368249-prkgrldfy</odePageId>
+          <odePageId>page-mofyahy7-3mu2ym9c5</odePageId>
           <odeBlockId>block-1776789389855-nwpefcwrz</odeBlockId>
           <odeIdeviceId>idevice-1776789389853-tabahu0fa</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>La infografía debe contener los siguientes apartados:</p>
 <ul>
-<li>Nombre de los componentes del grupo</li>
+<li>Nombre del grupo de trabajo</li>
+<li>Iniciales del nombre y apellidos de los componentes</li>
+<li>Nivel, grupo y centro educativo</li>
 <li>Justificación de la elección</li>
-<li>Pasos seguidos en el desarrollo del programa y recursos utilizados.</li>
+<li>Pasos seguidos en el desarrollo del programa y recursos utilizados<br /></li>
 <li>Juego incrustado (elemento interactivo)</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776789389853-tabahu0fa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La infografía debe contener los siguientes apartados:</p>\n<ul>\n<li>Nombre de los componentes del grupo</li>\n<li>Justificación de la elección</li>\n<li>Pasos seguidos en el desarrollo del programa y recursos utilizados.</li>\n<li>Juego incrustado (elemento interactivo)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776789389853-tabahu0fa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La infografía debe contener los siguientes apartados:</p>\n<ul>\n<li>Nombre del grupo de trabajo</li>\n<li>Iniciales del nombre y apellidos de los componentes</li>\n<li>Nivel, grupo y centro educativo</li>\n<li>Justificación de la elección</li>\n<li>Pasos seguidos en el desarrollo del programa y recursos utilizados<br /></li>\n<li>Juego incrustado (elemento interactivo)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -801,8 +1015,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2uw-duahnq5dg</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy8-nvjj6ypf1</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Crucigrama repaso</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -837,7 +1051,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2uw-duahnq5dg</odePageId>
+      <odePageId>page-mofyahy8-nvjj6ypf1</odePageId>
       <odeBlockId>block-1776540960764-2ctbq7xl9</odeBlockId>
       <blockName>Crucigrama</blockName>
       <iconName></iconName>
@@ -866,7 +1080,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2uw-duahnq5dg</odePageId>
+          <odePageId>page-mofyahy8-nvjj6ypf1</odePageId>
           <odeBlockId>block-1776540960764-2ctbq7xl9</odeBlockId>
           <odeIdeviceId>idevice-1776540960761-ev4pcln7d</odeIdeviceId>
           <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
@@ -904,8 +1118,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2ux-1b98f026j</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy8-t9jxgiutx</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Recursos a utilizar</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -940,7 +1154,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2ux-1b98f026j</odePageId>
+      <odePageId>page-mofyahy8-t9jxgiutx</odePageId>
       <odeBlockId>block-1776540636716-gujkoada5</odeBlockId>
       <blockName>Direcciones de recursos</blockName>
       <iconName></iconName>
@@ -969,16 +1183,19 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2ux-1b98f026j</odePageId>
+          <odePageId>page-mofyahy8-t9jxgiutx</odePageId>
           <odeBlockId>block-1776540636716-gujkoada5</odeBlockId>
           <odeIdeviceId>idevice-1776540636712-02bjvjxuk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><a href="https://procomun.intef.es/" title="">Banco de recursos multimedia Procomún</a></p>
-<p><a href="https://www.craiyon.com/es" title="">Generador de imágenes por IA Craiyon</a></p>
-<p><a href="https://www.remove.bg/es" title="">Eliminador de fondos de imágenes online</a></p>
+    <p><a href="https://scratch.mit.edu/" target="_blank" title="" rel="noopener">Software Scratch (Escritorio y online)</a></p>
+<p><a href="https://www.canva.com/" target="_blank" title="" rel="noopener">Canva</a></p>
+<p><a href="https://procomun.intef.es/" target="_blank" title="" rel="noopener">Banco de recursos multimedia Procomún</a></p>
+<p><a href="https://www.craiyon.com/es" target="_blank" title="" rel="noopener">Generador de imágenes por IA Craiyon</a></p>
+<p><a href="https://www.remove.bg/es" target="_blank" title="" rel="noopener">Eliminador de fondos de imágenes online</a></p>
+<p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776540636712-02bjvjxuk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://procomun.intef.es/\" title=\"\">Banco de recursos multimedia Procomún</a></p>\n<p><a href=\"https://www.craiyon.com/es\" title=\"\">Generador de imágenes por IA Craiyon</a></p>\n<p><a href=\"https://www.remove.bg/es\" title=\"\">Eliminador de fondos de imágenes online</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776540636712-02bjvjxuk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://scratch.mit.edu/\" target=\"_blank\" title=\"\" rel=\"noopener\">Software Scratch (Escritorio y online)</a></p>\n<p><a href=\"https://www.canva.com/\" target=\"_blank\" title=\"\" rel=\"noopener\">Canva</a></p>\n<p><a href=\"https://procomun.intef.es/\" target=\"_blank\" title=\"\" rel=\"noopener\">Banco de recursos multimedia Procomún</a></p>\n<p><a href=\"https://www.craiyon.com/es\" target=\"_blank\" title=\"\" rel=\"noopener\">Generador de imágenes por IA Craiyon</a></p>\n<p><a href=\"https://www.remove.bg/es\" target=\"_blank\" title=\"\" rel=\"noopener\">Eliminador de fondos de imágenes online</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1000,8 +1217,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2uy-d7k8djiqk</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
+  <odePageId>page-mofyahy9-wrj0wbhr4</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
   <pageName>Rúbrica para evaluación</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1036,8 +1253,8 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2uy-d7k8djiqk</odePageId>
-      <odeBlockId>block-1776540174673-813xu4mik</odeBlockId>
+      <odePageId>page-mofyahy9-wrj0wbhr4</odePageId>
+      <odeBlockId>block-1777220797593-xtwbq7gep</odeBlockId>
       <blockName>Galería de imágenes</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -1065,36 +1282,24 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2uy-d7k8djiqk</odePageId>
-          <odeBlockId>block-1776540174673-813xu4mik</odeBlockId>
-          <odeIdeviceId>idevice-1776540174668-meybfi71g</odeIdeviceId>
+          <odePageId>page-mofyahy9-wrj0wbhr4</odePageId>
+          <odeBlockId>block-1777220797593-xtwbq7gep</odeBlockId>
+          <odeIdeviceId>idevice-1777220797592-wax8ftokq</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
           <htmlView><![CDATA[<!-- Idevice Example template start -->
 <div class="exe-image-gallery-template">
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776540174668-meybfi71g" title="" href="{{context_path}}/content/resources/rúbrica.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rúbrica.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777220797592-wax8ftokq" title="" href="{{context_path}}/content/resources/rúbrica.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rúbrica.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776540174668-meybfi71g","img_0":{"img":"{{context_path}}/content/resources/rúbrica.png","thumbnail":"{{context_path}}/content/resources/rúbrica.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777220797592-wax8ftokq","img_1":{"img":"{{context_path}}/content/resources/rúbrica.png","thumbnail":"{{context_path}}/content/resources/rúbrica.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1102,10 +1307,68 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo8te2uy-gy9kg1vbe</odePageId>
-  <odeParentPageId>page-mo8te2us-3w5ypkhek</odeParentPageId>
-  <pageName>Atribución y descarga</pageName>
+  <odePageId>page-1777220222306-c8ve4ql66</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
+  <pageName>Presentación de infografías</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de infografías</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777220222306-c8ve4ql66</odePageId>
+      <odeBlockId>block-1777220234567-margsdl7s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777220222306-c8ve4ql66</odePageId>
+          <odeBlockId>block-1777220234567-margsdl7s</odeBlockId>
+          <odeIdeviceId>idevice-1777220234565-oxrbv5o55</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez que se entregue el enlace a la infografía en Educastur Campus, se publicará la de cada grupo en el presente apartado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777220234565-oxrbv5o55","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez que se entregue el enlace a la infografía en Educastur Campus, se publicará la de cada grupo en el presente apartado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofyahy9-wx2zmrwod</odePageId>
+  <odeParentPageId>page-mofyahy0-jyozkopo1</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1138,7 +1401,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo8te2uy-gy9kg1vbe</odePageId>
+      <odePageId>page-mofyahy9-wx2zmrwod</odePageId>
       <odeBlockId>block-1776541448762-qu4941znd</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1167,7 +1430,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo8te2uy-gy9kg1vbe</odePageId>
+          <odePageId>page-mofyahy9-wx2zmrwod</odePageId>
           <odeBlockId>block-1776541448762-qu4941znd</odeBlockId>
           <odeIdeviceId>idevice-1776541448759-kjzj1cezd</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -1211,20 +1474,6 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-1776787729368-evy7bn9zd</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Temporalización</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Temporalización</value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
   </odePagStructures>
 </odeNavStructure>
 </odeNavStructures>
